@@ -1,0 +1,12 @@
+
+{
+  "name": "websocket",
+  "version": "1.0.0",
+  "factorio_version": "0.14",
+  "title": "Websocket",
+  "author": "jmptable",
+  "contact": "",
+  "homepage": "https://github.com/jmptable/factorio-repl",
+  "description": "Open a WebSocket to a remote server",
+  "dependencies": ["base >= 0.14.0"]
+}

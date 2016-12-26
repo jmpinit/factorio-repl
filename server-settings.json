@@ -1,0 +1,19 @@
+{
+  "name": "Factorio REPL",
+  "description": "",
+  "tags": ["game", "tags"],
+  "max_players": 0,
+  "visibility": {
+    "public": false,
+    "lan": true
+  },
+  "require_user_verification": false,
+  "allow_commands": true,
+  "autosave_interval": 10,
+  "autosave_slots": 5,
+  "afk_autokick_interval": 0,
+  "auto_pause": true,
+  "only_admins_can_pause_the_game": true,
+  "autosave_only_on_server": true,
+  "admins": []
+}

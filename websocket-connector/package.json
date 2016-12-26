@@ -1,0 +1,11 @@
+{
+  "name": "websocket-connector",
+  "version": "1.0.0",
+  "description": "Makes WebSocket connections on behalf of the WebSocket mod",
+  "private": true,
+  "main": "src/index.js",
+  "dependencies": {
+    "simple-rcon": "^0.3.1",
+    "ws": "^1.1.1"
+  }
+}

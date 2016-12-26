@@ -1,0 +1,15 @@
+
+{
+  "name": "factorio-repl",
+  "version": "1.0.0",
+  "factorio_version": "0.14",
+  "title": "Factorio REPL",
+  "author": "jmptable",
+  "contact": "",
+  "homepage": "https://github.com/jmptable/factorio-repl",
+  "description": "Read-eval-print-loop mod development tool",
+  "dependencies": [
+    "base >= 0.14.0",
+    "websocket >= 1.0.0"
+  ]
+}

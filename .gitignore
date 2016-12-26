@@ -1,0 +1,6 @@
+# The Factorio server binary
+bin/
+
+# Node.js
+node_modules/
+npm-debug.log

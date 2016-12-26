@@ -1,0 +1,6 @@
+*
+!websocket-connector/
+!mods/
+!bin/
+!server-settings.json
+!launch.sh
